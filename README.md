@@ -14,6 +14,8 @@ The initial construction of this project is explained in the following blog post
 
 For information on upcoming features and fixes, take a look at the [product roadmap](https://github.com/JasonGT/NorthwindTraders/wiki/Roadmap).
 
+## Youtube Video link:
+https://www.youtube.com/watch?v=_lwCVE_XgqI
 ## Getting Started
 Use these instructions to get the project up and running.
 
